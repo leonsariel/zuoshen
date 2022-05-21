@@ -1,4 +1,4 @@
-import LinkedList.ListNode;
+package LinkedList;
 
 public class MidLeftRight {
     public static void main(String[] args) {

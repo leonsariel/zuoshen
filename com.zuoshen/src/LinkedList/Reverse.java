@@ -1,6 +1,4 @@
-package LinkedList;
-
-/*
+package LinkedList;/*
 reverse a single linked list
 return head
 **/
